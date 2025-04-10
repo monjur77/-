@@ -11,10 +11,15 @@ I recently worked on a 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥�
 - 𝐕𝐢𝐬𝐮𝐚𝐥 𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠: Designed a user-friendly dashboard providing insights into sales trends, top-performing products, and regional performance.
 
 
-https://github.com/user-attachments/assets/5b1702e6-b42d-433e-85fb-e2b48ba33ca0
+
+https://github.com/user-attachments/assets/ef98e03f-3990-4421-a65d-11aa93074c39
+
 
 
 📈 This project enhanced my data handling, automation, and visualization expertise—crucial skills in delivering data-driven insights.
+
+![Sales Data Analysis](https://github.com/user-attachments/assets/31ea56a8-84ec-429c-9ec3-5273f2d30f3e)
+
 
 I’m excited to continue exploring Excel’s advanced capabilities and applying them to solve real-world business problems!
 
