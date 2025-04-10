@@ -4,11 +4,11 @@ I recently worked on a 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥�
 
 ## 𝐊𝐞𝐲 𝐓𝐚𝐬𝐤𝐬 𝐀𝐜𝐜𝐨𝐦𝐩𝐥𝐢𝐬𝐡𝐞𝐝:
 
-✅ 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠: Cleaned and organized raw sales data for accurate analysis.
-✅ 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Leveraged Pivot Tables to summarize and visualize key metrics.
-✅ 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧: Utilized Macro Recording to automate repetitive tasks and boost efficiency.
-✅ 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐅𝐢𝐥𝐭𝐞𝐫𝐬: Added Slicers for dynamic filtering and improved interactivity.
-✅ 𝐕𝐢𝐬𝐮𝐚𝐥 𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠: Designed a user-friendly dashboard providing insights into sales trends, top-performing products, and regional performance.
+- 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠: Cleaned and organized raw sales data for accurate analysis.
+- 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Leveraged Pivot Tables to summarize and visualize key metrics.
+- 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧: Utilized Macro Recording to automate repetitive tasks and boost efficiency.
+- 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐅𝐢𝐥𝐭𝐞𝐫𝐬: Added Slicers for dynamic filtering and improved interactivity.
+- 𝐕𝐢𝐬𝐮𝐚𝐥 𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠: Designed a user-friendly dashboard providing insights into sales trends, top-performing products, and regional performance.
 
 
 https://github.com/user-attachments/assets/5b1702e6-b42d-433e-85fb-e2b48ba33ca0
